@@ -1,0 +1,6 @@
+{
+  "name": "Setif Agro-Climate",
+  "description": "NASA POWER / GMAO MERRA-2 Agro-Climatic Decision Tool for Sétif farmers: zone diagnostics, climate signals, crop rotation planning, and seasonal water-smart alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
